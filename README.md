@@ -1,19 +1,25 @@
-### Hi there 👋
+### Hi there! This is my GitHub Profile Repository 👋
 
-<!--
-**risherlock/risherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Computer Vision and Real-Time Systems
+- 🌱 I’m currently learning Mathematics
+- 👯 I’m looking to collaborate on Inertial Navigation System 
+- 📫 How to reach me: metrictensor221b@gmail.com
+- ⚡ My best mathematical object: $\large g_{\mu\nu}$
+- 📖 My influential authors: Sir Arthur Conan Doyle & PG Wodehouse
+- 👨‍💻 My influential programmers: Donald Knuth and Ken Thompson
 
-🔭 I’m currently working on ROS, Computer Vision and Satellites
-🌱 I’m currently learning Mathematics
-👯 I’m looking to collaborate on Inertial Navigation System 
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: metrictensor221b@gmail.com
-😄 Pronouns: Nobody
-⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=risherlock" alt="risherlock" /> 
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risherlock&layout=compact" />
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=risherlock&show_icons=true&theme=radical" />
+</p>
+
 
 
