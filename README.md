@@ -1,5 +1,4 @@
-### Hi there! This is my GitHub Profile Repository 👋
-
+### Welcome to my GitHub profile 👋
 
 - 🔭 I’m currently working on Computer Vision and Real-Time Systems
 - 🌱 I’m currently learning Mathematics
@@ -9,17 +8,9 @@
 - 📖 My influential authors: Sir Arthur Conan Doyle & PG Wodehouse
 - 👨‍💻 My influential programmers: Donald Knuth and Ken Thompson
 
-
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=risherlock" alt="risherlock" /> 
 </p>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risherlock&layout=compact" />
 </p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=risherlock&show_icons=true&theme=radical" />
-</p>
-
-
-
