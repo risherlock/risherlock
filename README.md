@@ -6,7 +6,7 @@
 - 📫 How to reach me: metrictensor221b@gmail.com
 - ⚡ My best mathematical object: $\large g_{\mu\nu}$
 - 📖 My influential authors: Sir Arthur Conan Doyle & PG Wodehouse
-- 👨‍💻 My influential programmers: Donald Knuth and Ken Thompson
+- 👨‍💻 My influential programmers: Knuth, Thompson, Ritchie, Kernighan ...
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risherlock&layout=compact" />
