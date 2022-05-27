@@ -9,8 +9,9 @@
 - 👨‍💻 My influential programmers: Donald Knuth and Ken Thompson
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=risherlock" alt="risherlock" /> 
-</p>
-<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risherlock&layout=compact" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=risherlock" alt="risherlock" /> 
 </p>
