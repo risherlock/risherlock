@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Computer Vision and Real-Time Systems
 - 🌱 I’m currently learning Mathematics
 - 👯 I’m looking to collaborate on Inertial Navigation System 
-- 📫 How to reach me: metrictensor221b@gmail.com
+- 📫 How to reach me: [My email address][email]
 - ⚡ My best mathematical object: $\large g_{\mu\nu}$
 - 📖 My influential authors: Sir Arthur Conan Doyle & PG Wodehouse
 - 👨‍💻 My influential programmers: Knuth, Thompson, Ritchie, Kernighan ...
@@ -15,3 +15,5 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=risherlock" alt="risherlock" /> 
 </p>
+
+[email]: mailto:metrictensor221b@gmail.com
