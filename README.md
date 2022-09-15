@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Inertial Navigation System 
 - 📫 How to reach me: [My email address][email]
 - ⚡ My best mathematical object: $\large g_{\mu\nu}$
-- 📖 My influential authors: Sir Arthur Conan Doyle & PG Wodehouse
+- 📖 My influential authors: Multiple and truly marvelous authors, which this margin is too narrow to contain.
 - 👨‍💻 My influential programmers: Knuth, Thompson, Ritchie, Kernighan ...
 
 <p align="center"> 
