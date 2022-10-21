@@ -20,4 +20,4 @@
 <b>- Michael Faraday (Experimental Researches in Electricity, Vol. 2 (1834))</b></p>
 </br>
 
-[email]: mailto:metrictensor221b@gmail.com
+[email]: mailto:risherlock221b@gmail.com
