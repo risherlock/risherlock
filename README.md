@@ -1,8 +1,7 @@
 ### Welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on Computer Vision and Real-Time Systems
-- 🌱 I’m currently learning Mathematics
-- 👯 I’m looking to collaborate on Inertial Navigation System 
+- 🔭 I’m currently working on applied mathematics
+- 🌱 I’m currently learning mathematics
 - 📫 How to reach me: [My email address][email]
 - ⚡ My best mathematical object: $\large g_{\mu\nu}$
 - 📖 My influential authors: Multiple and truly marvelous authors, which this margin is too narrow to contain.
