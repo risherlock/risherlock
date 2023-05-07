@@ -1,11 +1,11 @@
-<p style="text-align=center">
+<p align="center">
 <I>
   "It is the great beauty of our science that advancement in it, whether in a degree great or small, instead of exhausting the subjects of research, opens the doors to further and more abundant knowledge, overflowing with beauty and utility."
 </I><br><br>
-<b>- Michael Faraday (<I>Experimental Researches in Electricity</I>, Vol. 2 (1834))</b></p>
-</br>
+<b>Michael Faraday (<I>Experimental Researches in Electricity</I>, Vol. 2 (1834))</b></p>
 </p>
-<h2>My projects</h2>
+
+<h2>Some projects</h2>
 
 <p>
   <ol>
