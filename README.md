@@ -12,5 +12,6 @@
     <li><a href="https://risherlock.github.io/dot-com/">Website</a></li>
     <li><a href="https://github.com/risherlock/Embedded-Tinkering">Embedded tinkerings</a></li>
     <li><a href="https://github.com/risherlock/Software-Tinkering">Software tinkerings</a></li>
+    <li><a href="https://github.com/risherlock/Mannigfaltigkeit">Research</a></li>
   </ol>
 </p>
